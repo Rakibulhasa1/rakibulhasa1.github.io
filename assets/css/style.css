@@ -4939,7 +4939,7 @@ a:hover, a:active {
 }
 @media (min-width: 992px) {
   .hero-block .hero-desc {
-    font-size: 20px;
+    font-size: 25px;
     margin-bottom: 10px;
   }
 }
@@ -5052,7 +5052,7 @@ a:hover, a:active {
 }
 @media (min-width: 1200px) {
   .hero-block.personal-home .hero-desc > span {
-    margin: 0 20px;
+    margin: 0 10px;
   }
 }
 
